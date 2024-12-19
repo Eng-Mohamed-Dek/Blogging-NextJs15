@@ -1,0 +1,16 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Enter",
+  "steps": [
+    {
+      "title": "Introduction",
+      "description": "this for next js application\r\n"
+    },
+    {
+      "file": "app/globals.css",
+      "description": "this must be done in tailwind css.",
+      "line": 1
+    }
+  ],
+  "ref": "master"
+}

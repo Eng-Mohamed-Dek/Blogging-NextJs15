@@ -7,12 +7,8 @@ A modern and fast blogging platform built with **Next.js**, **React**, and **Tai
 - 📝 Blog post creation using Markdown or MDX
 - ⚡ Fast static site generation with Next.js
 - 📄 Dynamic routing for individual posts
-- 💬 Optional comment system (Disqus, Giscus, etc.)
 - 📱 Responsive design with Tailwind CSS
 - 🧠 SEO friendly with meta tags and Open Graph support
-- 🗂️ Tags and categories for posts
-- 🌙 Dark mode support
-- ✍️ Optional CMS integration (e.g., Contentful, Sanity)
 
 ## 🛠️ Tech Stack
 
